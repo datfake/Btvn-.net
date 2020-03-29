@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.exe
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.deps.json
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.runtimeconfig.json
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.dll
+C:\Users\PC\source\repos\Day1\Bai 8\bin\Debug\netcoreapp3.1\Bai 8.pdb
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.AssemblyInfo.cs
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.dll
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.pdb
+C:\Users\PC\source\repos\Day1\Bai 8\obj\Debug\netcoreapp3.1\Bai 8.genruntimeconfig.cache

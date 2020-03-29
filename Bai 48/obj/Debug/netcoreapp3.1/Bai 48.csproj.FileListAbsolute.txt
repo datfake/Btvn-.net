@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.exe
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.deps.json
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.runtimeconfig.json
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.dll
+C:\Users\PC\source\repos\Day1\Bai 11\bin\Debug\netcoreapp3.1\Bai 48.pdb
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.AssemblyInfo.cs
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.dll
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.pdb
+C:\Users\PC\source\repos\Day1\Bai 11\obj\Debug\netcoreapp3.1\Bai 48.genruntimeconfig.cache

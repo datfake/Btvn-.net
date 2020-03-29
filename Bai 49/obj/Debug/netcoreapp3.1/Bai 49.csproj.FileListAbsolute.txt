@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.AssemblyInfo.cs
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.exe
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.deps.json
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.runtimeconfig.json
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.dll
+C:\Users\PC\source\repos\Day1\Bai 49\bin\Debug\netcoreapp3.1\Bai 49.pdb
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.dll
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.pdb
+C:\Users\PC\source\repos\Day1\Bai 49\obj\Debug\netcoreapp3.1\Bai 49.genruntimeconfig.cache
